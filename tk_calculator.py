@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter.ttk import *
 
 
-m = Tk(className = 'Exemplar calculator')
+m = Tk(className = 'ddsb calculator')
 
 
 
