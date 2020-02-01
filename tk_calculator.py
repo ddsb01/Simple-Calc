@@ -8,7 +8,7 @@ m = Tk(className = 'ddsb calculator')
 
 
 
-# S T Y L I N G :
+# S T Y L I N G : 
 #m.geometry('400x250')       # Fix the size of the calculator tab. PS : use character 'x' instead of '*'.
 style = Style()
 
